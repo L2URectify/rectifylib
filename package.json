@@ -1,0 +1,28 @@
+{
+  "name": "rectifylib",
+  "version": "1.0.1",
+  "description": "Publc Library for Rectify for NODE.JS users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L2URectify/rectifylib.git"
+  },
+  "keywords": [
+    "Bloxlink",
+    "Rectify",
+    "Verification"
+  ],
+  "author": "JonaxDevelopment",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L2URectify/rectifylib/issues"
+  },
+  "homepage": "https://github.com/L2URectify/rectifylib#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "rectifylib": "^1.0.1"
+  }
+}
